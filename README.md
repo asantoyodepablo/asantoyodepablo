@@ -3,7 +3,10 @@
 
 · 🔭 Actualmente trabajo en **Aurea Soluciones Dinámicas**
 
+· 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma y Marketing Digital
+
 · 📧 Ponte en contacto conmigo: albertosantoyodepablo@gmail.com
+
 
 <h3 align="left">Conecta conmigo en LinkedIn:</h3>
 <p align="left">
