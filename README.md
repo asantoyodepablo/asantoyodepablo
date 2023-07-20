@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Alberto Santoyo</h1>
-<h3 align="center">Analista programador junior de Málaga (España)</h3>
+<h3 align="center">Analista programador junior, Málaga (España)</h3>
 
 · 🔭 Actualmente trabajo en **Aurea Soluciones Dinámicas**
 
